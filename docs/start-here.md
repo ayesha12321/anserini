@@ -596,7 +596,5 @@ If you have any questions, look at previous pull requests for examples.
 + Results reproduced by [@yashs33244](https://github.com/yashs33244) on 2026-07-05 (commit [`77ec7ef`](https://github.com/castorini/anserini/commit/77ec7ef73ae3cec88c41ee0992133f5c751224f8))
 + Results reproduced by [@sadia213](https://github.com/sadia213) on 2026-07-10 (commit [`b98b8fb7`](https://github.com/castorini/anserini/commit/b98b8fb7c874cfda814daddbaa429dc2b8d6f982))
 + Results reproduced by [@abubinfahd](https://github.com/abubinfahd) on 2026-07-13 (commit [`b98b8fb`](https://github.com/castorini/anserini/commit/b98b8fb7c874cfda814daddbaa429dc2b8d6f982))
-+ Results reproduced by [@JonHolman](https://github.com/JonHolman) on 2026-06-27 (commit [`78e7e16`](https://github.com/castorini/anserini/commit/78e7e16bdc5c04085da3b0b2fcd5c06c9292d00e))
 + Results reproduced by [@mfrashidi](https://github.com/mfrashidi) on 2026-07-15 (commit [`6f6b00d`](https://github.com/castorini/anserini/commit/6f6b00d0ecb160557514ed0e00f8767831d16f3a))
 + Results reproduced by [@ayesha12321](https://github.com/ayesha12321) on 2026-07-08 (commit [`bd93b89`](https://github.com/castorini/anserini/commit/bd93b899a1f34362b4146153c94a8eab14d9a7da))
-
